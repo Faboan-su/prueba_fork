@@ -7,3 +7,4 @@ for i in c:
     print(i)
 regla="tres simples"
 print(regla)
+#se puede hacer algo aca pero no se que
