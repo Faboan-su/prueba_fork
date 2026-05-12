@@ -8,3 +8,5 @@ for i in c:
 regla="tres simples"
 print(regla)
 #se puede hacer algo aca pero no se que
+
+#hola soy nuevo y trabajo aqui
