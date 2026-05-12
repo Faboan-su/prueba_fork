@@ -5,3 +5,5 @@ resultado=a+b
 print(resultado)
 for i in c:
     print(i)
+regla="tres simples"
+print(regla)
