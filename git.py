@@ -14,3 +14,12 @@ for i in range(1,5):
     print("*"*i)
     for j in range(1,5):
         print("*"*j)
+        
+#par o impar
+x=int(input("introduce numero:"))
+if x==0:
+    print("Numero invalido")
+elif(x%2==0):
+    print("par")
+else:
+    print("impar")
