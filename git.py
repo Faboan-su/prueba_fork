@@ -23,3 +23,9 @@ elif(x%2==0):
     print("par")
 else:
     print("impar")
+#ccuenta del 10 al 1
+i=10
+while i>0:
+    print(i)
+    i-=1
+    
